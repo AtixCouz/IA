@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/help","/topic change","/promote","/punish"];
+const statusMessages = ["Running Internal Affairs","Running Internal Affairs","Running Internal Affairs","Running Internal Affairs"];
 
 
 let currentIndex = 0;
